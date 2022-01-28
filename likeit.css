@@ -29,7 +29,7 @@ header .logo a img{
 }
 
 header .logo p a{
-    font-size: 1.4rem;
+    font-size: 2rem;
     font-weight: 500;
 }
 
@@ -133,10 +133,6 @@ header .menu p a{
         padding-right: 30px;
     }
 
-    header .logo p a {
-        font-size: 1.3rem;
-
-    }
     header .logo {
         padding-left: 30px;
     }
