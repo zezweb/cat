@@ -3,7 +3,7 @@
     font-size: 18px;
     padding: 0;
     margin: 0;
-    background-color: #8bbae4;
+    background-color: #fbdf80;
 }
 
 a{
@@ -58,9 +58,12 @@ header .menu p a{
     display: none;
 }
 
-.skymoonbg{
-    background-color: #a2c9eb;
-    height: 100vh;
+.welcome p{
+    text-align: center;
+    font-size: 3rem;
+    color: #fff;
+    padding-top: 20px;
+    letter-spacing: 10px;
 }
 
 @media (max-width: 1100px){
